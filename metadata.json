@@ -1,0 +1,8 @@
+{
+  "name": "Remix SỔ TAY THI ĐUA LỚP 10A1",
+  "description": "Hệ thống quản lý nề nếp thi đua lớp 6B1 thông minh, trực quan, tích hợp Google Sheets và Gamification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
